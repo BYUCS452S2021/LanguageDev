@@ -1,0 +1,10 @@
+Language Dev
+Hi, my name is Gage Meservy, I am very interested in assisting with this project. 
+I really like this idea, it sounds like a great challenge, and I think it’s also something we can definitely pull off well. I also think this idea is very fun and unique. I have a decent amount of experience for back-end and front-end applications. I feel like I could help wherever is needed, whether that is solely with the database, or setting up things on the front end. I used to be a TA for IS 201 which has a good chunk of the class on setting up databases, I am not familiar with many databases, but I am experienced in designing them. And we are in this class to try out new things and learn about databases we haven’t used before, so I don’t think that’s a problem.
+
+Business - I think this is a useful, marketable, and unique idea. I think it’s something that could attract real users who have a real need for this sort of thing.
+Operations – With a team of 3 I think we can have someone focus on the front end, someone focus on the backend, and then someone else assist wherever needed. We can use an agile approach and have a task board and use sprints to help keep things organized.
+Legal - I think we are fine on the legal aspect of things, I don’t think there will be any issues.
+Technical – I’m not totally clear on the technical part, we’ll obviously have to talk about it more, but my understanding is that we set up some sort of app or website in a way, that users can be assisted in developing their own languages with the assistance of this app, maybe they input certain sounds that they want emphasized or things like that, and the app helps them to structure it in a way that makes sense. We can talk about it way more to firmly decide how we want the users to interact with the app and what we want it to do for them.
+Social – This app does not seem like it would need any sort of user social media features to be useful to normal users. But we can always implement extra features that we find useful if we have time.
+
